@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\repos\SnakeGame\SnakeGame\Vector.h(92,14): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\repos\SnakeGame\SnakeGame\Vector.h(93,16): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\repos\SnakeGame\SnakeGame\main.cpp(26,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\repos\SnakeGame\SnakeGame\main.cpp(118,22): warning C4018:  '<': signed/unsigned mismatch
+D:\repos\SnakeGame\SnakeGame\main.cpp(129,22): warning C4018:  '<': signed/unsigned mismatch
+  SnakeGame.vcxproj -> D:\repos\SnakeGame\Debug\SnakeGame.exe
