@@ -43,7 +43,7 @@ int main()
 			cout << "You Are Lose" << endl <<"Press R to Retry and any others Key to Exit";
 			fflush(stdin);
 			int a = _getch();
-			if (a != 'R')
+			if (a != 'r')
 			{
 				return 0;
 			}
